@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://478463266.github.io 
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: "博客"
+subtitle: "新的征程"
+description: "玮的个人博客"
+keywords: blog
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Wei
+organization: bupt
+organization_url: http://bupt.edu.cn
+github_username: 478463266
+location: Beijing, China
+email: rw478463266@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -33,15 +33,15 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: 学术
 
   -
     href: /wiki/
-    label: 维基
+    label: 工程
 
   -
     href: /links/
-    label: 链接
+    label: 生活
 
   -
     href: /about/
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: 478463266/478463266.github.io
 
 # ---------------- #
 #      Comments    #
@@ -89,13 +89,13 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: mzlogin
+    username: 478463266
 # https://gentie.163.com
 netease_gentie:
     productKey: 560ed243b708465d82d5a0a5f3b83da1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: 478463266
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
