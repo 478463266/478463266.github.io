@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 计算机网络知识总结 
+title: pop、propagation delay和transmission delay
 categories: 学术
 description: 论文阅读过程中总结的网络知识
 keywords: pop, propagation delay
 ---
 
-## 计算机网络知识
+## 计算机网络知识-pop、propagation delay和transmission delay
 
 * **pop**
 
